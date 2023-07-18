@@ -20,6 +20,6 @@ Replicamos página de https://piazzayasociados.com.ar . Creado por https://mocap
 <h5>Areas de Prácticas</h5>
 <h5>Contactos</h5>
 <h5>Hace tu Consulta</h5>
-<h3>Autoras</h3>
+<h3>Autoras 👷‍♀️ 👷‍♀️</h3>
 <p>Luciana Quilcate:https://github.com/luma2001</p>
 <p>Carina Corredera:https://github.com/cari-corredera</p>
