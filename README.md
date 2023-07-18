@@ -14,9 +14,9 @@ Replicamos página de https://piazzayasociados.com.ar . Creado por https://mocap
   <li>BOOTSTRAP</li>
 </ul>
 <h3>Contenido del Sitio</h3>
-<h6>Inicio</h6>
-<h6>Quienes Somos</h6>
-<h6>Areas de Prácticas</h6>
+<h5>Inicio</h5>
+<h5>Quienes Somos</h5>
+<h5>Areas de Prácticas</h5>
 <h6>Contactos</h6>
 <h6>Hace tu Consulta</h6>
 <h3>Autoras</h3>
