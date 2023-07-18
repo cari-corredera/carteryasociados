@@ -1,4 +1,4 @@
-<em># carteryasosiados</em>
+<em># carteryasociados</em>
 <h2 align="center">Sitio Web para Estudio Jurídico Ficticio</h2>
 <h3>Descripción del Proyecto</h3>
 <em>Código Finalizado ✔️</em>
@@ -7,7 +7,7 @@ Replicamos página de https://piazzayasociados.com.ar . Creado por https://mocap
 <h3>Acceso al Código</h3>
 <p>https://github.com/cari-corredera/carteryasociados.git</p>
 <h3>Visitar Sitio</h3>
-<p>https://cari-corredera.github.io/carteryasociados/</p>
+<p> https://cari-corredera.github.io/carteryasociados/</p>
 <h3>Tecnologías utilizadas</h3>
 <ul>
   <li>HTML5</li>
