@@ -1,15 +1,24 @@
 <em># carteryasosiados</em>
-<h2 aling="center">Sitio Web para Estudio Jurídico Ficticio</h2>
-<h3 aling="center">Descripciòn del Proyecto</h3>
+<h2 align="center">Sitio Web para Estudio Jurídico Ficticio</h2>
+<h3>Descripción del Proyecto</h3>
 <p>Aplicación de conocimientos adquiridos para desarrollar sitios web responsive.<br>
-Replicamos pagina de https://piazzayasociados.com.ar . Creado por https://mocapestudio.com/</p>
+Replicamos página de https://piazzayasociados.com.ar . Creado por https://mocapestudio.com/</p>
 <h3>Acceso al Código</h3>
 <p>https://github.com/cari-corredera/carteryasociados.git</p>
 <h3>Visitar Sitio</h3>
 <p>https://cari-corredera.github.io/carteryasociados/</p>
-<h3 aling="center">Tecnologías utilizadas</h3>
+<h3>Tecnologías utilizadas</h3>
 <ul>
   <li>HTML5</li>
   <li>CSS3</li>
   <li>BOOTSTRAP</li>
 </ul>
+<h3>Contenido del Sitio</h3>
+<h6>Inicio</h6>
+<h6>Quienes Somos</h6>
+<h6>Areas de Prácticas</h6>
+<h6>Contactos</h6>
+<h6>Hace tu Consulta</h6>
+<h3>Autoras</h3>
+<p>Luciana Quilcate:https://github.com/luma2001</p>
+<p>Carina Corredera:https://github.com/cari-corredera</p>
